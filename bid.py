@@ -11,7 +11,7 @@ SUITS = 'DCHS'
 
 """
 TODO:
-    Return mode of tricks tacken and probability of getting each number of tricks
+    Return mode of tricks taken and probability of getting each number of tricks
     rather than average trick value
 
 """
